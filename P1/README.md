@@ -12,3 +12,4 @@ int main(int argc, char * argv[]) {
 	return 0;
 }
 ```
+[Here](https://github.com/pkivolowitz/CSC3510-S-2022/tree/main/projects/p1) is the full project specification.
